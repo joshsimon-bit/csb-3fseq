@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joshsimon-bit.github.io/csb-3fseq/static/css/main.cd339e7d.chunk.css",
+    "main.js": "https://joshsimon-bit.github.io/csb-3fseq/static/js/main.ee35c555.chunk.js",
+    "main.js.map": "https://joshsimon-bit.github.io/csb-3fseq/static/js/main.ee35c555.chunk.js.map",
+    "runtime-main.js": "https://joshsimon-bit.github.io/csb-3fseq/static/js/runtime-main.73f67e8d.js",
+    "runtime-main.js.map": "https://joshsimon-bit.github.io/csb-3fseq/static/js/runtime-main.73f67e8d.js.map",
+    "static/js/2.fd164c3a.chunk.js": "https://joshsimon-bit.github.io/csb-3fseq/static/js/2.fd164c3a.chunk.js",
+    "static/js/2.fd164c3a.chunk.js.map": "https://joshsimon-bit.github.io/csb-3fseq/static/js/2.fd164c3a.chunk.js.map",
+    "index.html": "https://joshsimon-bit.github.io/csb-3fseq/index.html",
+    "static/css/main.cd339e7d.chunk.css.map": "https://joshsimon-bit.github.io/csb-3fseq/static/css/main.cd339e7d.chunk.css.map",
+    "static/js/2.fd164c3a.chunk.js.LICENSE.txt": "https://joshsimon-bit.github.io/csb-3fseq/static/js/2.fd164c3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73f67e8d.js",
+    "static/js/2.fd164c3a.chunk.js",
+    "static/css/main.cd339e7d.chunk.css",
+    "static/js/main.ee35c555.chunk.js"
+  ]
+}
